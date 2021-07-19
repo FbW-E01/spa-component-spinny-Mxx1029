@@ -1,0 +1,25 @@
+h2 {
+    margin: 2rem 0;
+}
+
+.content {
+    width: 70%;
+}
+
+.comment-box {
+    padding: 0.5rem 2.5rem;
+    border: 1px solid;
+}
+
+.comment {
+    border: 1px solid darkmagenta;
+    padding: 0.5rem 1rem;
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    line-height: 1.5rem;
+    margin-bottom: 0.75rem;
+}
